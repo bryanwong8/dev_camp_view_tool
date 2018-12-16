@@ -11,8 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{"Make a gem"}
   spec.description   = %q{Implements a copyright tag on the bottom of every page}
-  spec.homepage      = "none"
-
+  spec.homepage      = "https://devcamp.com"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
